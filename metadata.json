@@ -1,0 +1,5 @@
+{
+  "name": "Infinite Canvas Notes",
+  "description": "A spatial note-taking app where you can place text, tables, and AI-generated mind maps anywhere on an infinite canvas.",
+  "requestFramePermissions": []
+}
